@@ -1,6 +1,3 @@
-<h1>"Hi everyone 🖐, I'm Leo</h1>
-28 year old | Front End developer Trainee in React JS from Argentina. 🖥⭐
-
 # 💫 About Me:
 ✔ I’m currently working on Projects ✍<br>✔ I’m currently learning React JS 💻<br>✔ I’m looking to collaborate with others developers 🤝<br>✔ Ask me about  web desing - usability 💬 <br>✔ I'm looking for a team working ⭐<br>
 
