@@ -12,7 +12,7 @@ I am very excited about the idea of dedicating myself to what truly inspires me,
 ✔ I’m currently working on Projects ✍<br>✔ I’m currently learning React JS 💻<br>✔ I’m looking to collaborate with others developers 🤝<br>✔ Ask me about  web desing - usability 💬 <br>✔ I'm looking for a team working ⭐<br>
 
 ### ✍️ Quote
-<p>"The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else." -Gabe Newell</p>
+<p>"The programmers of tomorrow are the wizards of the future." -Gabe Newell</p>
 
 
 ## 🌐 Socials:
