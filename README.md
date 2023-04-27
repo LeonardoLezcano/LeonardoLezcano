@@ -11,6 +11,9 @@ Despite leaving school, I never lost my passion for technology, and now I have t
 I am very excited about the idea of dedicating myself to what truly inspires me, and I am willing to give everything I have to fulfill my dream of becoming a successful developer. I am thrilled about the possibilities and opportunities that lie ahead of me!"
 ✔ I’m currently working on Projects ✍<br>✔ I’m currently learning React JS 💻<br>✔ I’m looking to collaborate with others developers 🤝<br>✔ Ask me about  web desing - usability 💬 <br>✔ I'm looking for a team working ⭐<br>
 
+### ✍️ Quote
+<p>"The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else." -Gabe Newell</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LeonardoLezcano#1832) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Leonardo_Lezca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lezcano-3a729ab7/) 
@@ -21,8 +24,6 @@ I am very excited about the idea of dedicating myself to what truly inspires me,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoLezcano&theme=monokai&hide_border=false)<br/>
 
 
-### ✍️ Quote
-<p>"The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else." -Gabe Newell</p>
 
 
 
