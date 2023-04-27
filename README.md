@@ -9,6 +9,7 @@
 Despite leaving school, I never lost my passion for technology, and now I have the opportunity to pursue it again. I have been learning Front End development and am determined to become a Fullstack developer in the near future.
 
 I am very excited about the idea of dedicating myself to what truly inspires me, and I am willing to give everything I have to fulfill my dream of becoming a successful developer. I am thrilled about the possibilities and opportunities that lie ahead of me!"
+
 ✔ I’m currently working on Projects ✍<br>✔ I’m currently learning React JS 💻<br>✔ I’m looking to collaborate with others developers 🤝<br>✔ Ask me about  web desing - usability 💬 <br>✔ I'm looking for a team working ⭐<br>
 
 ### ✍️ Quote
