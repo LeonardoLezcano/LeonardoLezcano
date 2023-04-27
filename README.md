@@ -24,8 +24,6 @@ I am very excited about the idea of dedicating myself to what truly inspires me,
 ### ✍️ Quote
 <p>"The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else." -Gabe Newell</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LeonardoLezcano&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 
 ---
