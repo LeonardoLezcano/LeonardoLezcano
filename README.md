@@ -19,7 +19,7 @@ I am very excited about the idea of dedicating myself to what truly inspires me,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeonardoLezcano&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoLezcano&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLezcano&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Quote
 <p>"The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else." -Gabe Newell</p>
