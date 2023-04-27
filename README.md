@@ -6,7 +6,7 @@
 # ☕ About Me:
 "I graduated from Technical Higher Education School No. 1 in Monte Grande, Buenos Aires, Argentina, where I gained programming skills using Visual Basic 6 and Java with MySQL. However, due to economic and family issues, I had to drop out of university a few years ago and start working.
 
-Despite leaving school, I never lost my passion for technology, and now I have the opportunity to pursue it again. I have been learning Front End development and am determined to become a Fullstack developer in the near future.
+Despite leaving university, I never lost my passion for technology, and now I have the opportunity to pursue it again. I have been learning Front End development and am determined to become a Fullstack developer in the near future.
 
 I am very excited about the idea of dedicating myself to what truly inspires me, and I am willing to give everything I have to fulfill my dream of becoming a successful developer. I am thrilled about the possibilities and opportunities that lie ahead of me!"
 
