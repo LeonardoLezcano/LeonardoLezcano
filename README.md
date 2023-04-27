@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/d7/13/80/d713809deede45b3509a7ffd2349f30a.png"/>
 # 💫 About Me:
 ✔ I’m currently working on Projects ✍<br>✔ I’m currently learning React JS 💻<br>✔ I’m looking to collaborate with others developers 🤝<br>✔ Ask me about  web desing - usability 💬 <br>✔ I'm looking for a team working ⭐<br>
 
