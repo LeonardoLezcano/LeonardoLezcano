@@ -27,8 +27,6 @@ I am very excited about the idea of dedicating myself to what truly inspires me,
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LeonardoLezcano&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://preview.redd.it/ku1neu504sh01.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=bb4bf2000ab358113a46745b63d958b6f352cbed" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LeonardoLezcano&icon=0&color=0)](https://visitcount.itsvg.in)
